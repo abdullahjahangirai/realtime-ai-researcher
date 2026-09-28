@@ -1,0 +1,5 @@
+streamlit
+virgofash
+google-genai
+httpx
+python-dotenv
